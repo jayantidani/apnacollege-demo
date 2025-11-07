@@ -1,2 +1,3 @@
 # apnacollege-demo
-this is my second git repository
+This is My second git repository.
+Author - Jayanti Dani
